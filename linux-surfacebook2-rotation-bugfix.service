@@ -1,0 +1,9 @@
+[Unit]
+Description=Makes the orientation of the touchpad work when the screen is rotated
+
+[Service]
+Type=simple
+ExecStart=/opt/linux-surfacebook2-rotation-bugfix.sh
+
+[Install]
+WantedBy=default.target

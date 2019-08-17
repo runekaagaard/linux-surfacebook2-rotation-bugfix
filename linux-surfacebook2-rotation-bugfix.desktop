@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=linux-surfacebook2-rotation-bugfix
+Exec=/usr/bin/linux-surfacebook2-rotation-bugfix.sh
+Icon=system-run
+X-GNOME-Autostart-enabled=true

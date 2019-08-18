@@ -15,3 +15,7 @@ This makes the touchpad work correctly when the screen is rotated on the followi
     ./install.sh
 
 Then log in and out. Rotation of touchpad should now work.
+
+# Acknowledgments
+
+Big praise to @jakeday and @qzed for bringing shiny things to linux!

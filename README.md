@@ -4,7 +4,8 @@ This makes the touchscreen
  work correctly when the screen is rotated on the following system:
 
 - Ubuntu 19.04
-- Surface Book 2 15"
+- Surface Book 2 15" 16Gb
+- A 20Gb swap partition
 - Gnome
 - Setup.sh: https://github.com/qzed/linux-surface/commit/51c7f7a23419f4262bc7bf1b60d4e7e9830df0b7
 - Kernel: https://github.com/qzed/linux-surface/releases/tag/v5.2.5-pre1 

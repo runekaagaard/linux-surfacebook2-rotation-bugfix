@@ -1,6 +1,7 @@
 # linux-surfacebook2-rotation-bugfix
 
-This makes the touchpad work correctly when the screen is rotated on the following system:
+This makes the touchscreen
+ work correctly when the screen is rotated on the following system:
 
 - Ubuntu 19.04
 - Surface Book 2 15"
@@ -14,7 +15,7 @@ This makes the touchpad work correctly when the screen is rotated on the followi
     cd linux-surfacebook2-rotation-bugfix
     ./install.sh
 
-Then log in and out. Rotation of touchpad should now work.
+Then log in and out. Rotation of touchscreen should now work.
 
 # Acknowledgments
 
